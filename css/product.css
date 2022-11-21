@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "brice";
+  src: url("../resrc/Brice-SemiBold.otf");
+}
+
+@font-face {
+  font-family: "satoshi-bold";
+  src: url("../resrc/Satoshi-Bold.otf");
+}
+
+@font-face {
+  font-family: "satoshi-bolditalic";
+  src: url("../resrc/Satoshi-BoldItalic.otf");
+}
+
+@font-face {
+  font-family: "satoshi-medium";
+  src: url("../resrc/Satoshi-Medium.otf");
+}
+
+@font-face {
+  font-family: "satoshi-mediumitalic";
+  src: url("../resrc/Satoshi-MediumItalic.otf");
+}
