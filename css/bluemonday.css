@@ -22,3 +22,31 @@
   font-family: "satoshi-mediumitalic";
   src: url("../resrc/Satoshi-MediumItalic.otf");
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #f4ede3;
+}
+
+header {
+  height: 50vh;
+}
+
+.waves {
+  width: 100vw;
+  line-height: 0;
+  position: relative;
+}
+
+.waves img {
+  max-width: 100%;
+}
+
+.bluetext {
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  z-index: 1;
+}

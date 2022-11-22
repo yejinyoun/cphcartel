@@ -31,4 +31,47 @@
 
 body {
   background-color: #0b25b7;
+  width: 100%;
+}
+
+header {
+  font-family: satoshi-bold;
+  color: white;
+}
+
+.nav_container {
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  gap: 4rem;
+  margin-right: 5%;
+}
+
+li {
+  list-style: none;
+}
+
+.logo {
+  width: 8rem;
+  position: absolute;
+}
+
+.icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.icons img {
+  width: 2rem;
+  height: 2rem;
+}
+
+.menu {
+  display: flex;
+  gap: 3rem;
+}
+
+li span {
+  font-family: satoshi-medium;
+  font-size: 20px;
 }
